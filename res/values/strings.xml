@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">MarkMyPlaces</string>
+    <string name="home">Home</string>
+    <string name="checkins_history">Checkins History</string>
+    <string name="setting">Settings</string>
+    <string name="hello_user">Hello User</string>
+    <string name="enter_place_title">Enter Place Title</string>
+    <string name="enter_short_message">Enter Short Message</string>
+    <string name="add_place">Add Place</string>
+    <string name="update_place">Update Place</string>
+    <string name="no_location_data">No location data provided</string>
+    <string name="invalid_lat_lng">Invalid latitude or longitude used</string>
+    <string name="no_geocoder">No geocoder available</string>
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="improper_geocoder_query">Improper geocoder query</string>
+    <string name="loading_address">Loading Address</string>
+    <string name="error_enter_data">Enter Value</string>
+    <string name="activity_label_checkin_history">Checkins</string>
+    <string name="activity_label_add_place">Add Place</string>
+    <string name="no_data">No Data</string>
+    <string name="add_to_geofence">Add to Geofence</string>
+    <string name="enter_radius">Enter Radius</string>
+    <string name="default_radius">100</string>
+    <string name="waiting_for_location">Waiting for current location</string>
+    <string name="place_added">Place added</string>
+    <string name="geofencing_limit_exceeded">No space for geofencing only %d permitted.</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="meters">mts</string>
+    <string name="enter_area">Enter Area</string>
+    <string name="exit_area">Exit Area</string>
+
+</resources>
